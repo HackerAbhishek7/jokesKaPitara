@@ -1,0 +1,31 @@
+body{
+
+
+    margin-top: 100px;
+    line-height: 2;
+    font-size: 2rem;
+
+    /* Makes Item To Center */
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+img{
+    width: 80%;
+    height: 10%;
+}
+
+.container{
+    align-items: center;
+}
+
+button{
+    font-size: 1rem;
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: aquamarine;
+    padding: 3px 3px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+

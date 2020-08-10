@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to left, rgb(214, 66, 66) 10%, rgb(151, 182, 229) 90%);
+
+    margin-top: 100px;
+    line-height: 2;
+    font-size: 2rem;
+
+    /* Makes Item To Center */
+    text-align: center;
+    width: 800px;
+    margin: auto;
+}
+img{
+    width: 80%;
+    height: 10%;
+}
+
+
+button{
+    font-size: 1rem;
+    border: 2px solid black;
+    border-radius: 6px;
+    background-color: aquamarine;
+    padding: 3px 3px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
